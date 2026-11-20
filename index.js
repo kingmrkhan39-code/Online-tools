@@ -1,4 +1,3 @@
-#ENCODED BY : NASIIR ALII KIING
 #ENCRYPTION : Py3 ZLIB
 #GITHUB : https://github.com/D3VIIL420
 #----------------------------------------------
