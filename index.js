@@ -39,13 +39,13 @@ function hardClear() {
 function banner() {
   hardClear();
   console.log(C.cyan + "═".repeat(65) + C.reset);
-  console.log(C.bold + C.red + "   (       )(  ____ )  | \    /\|\     /|(  ___  )( (    /|
-  console.log(C.bold + C.yellow + "  | () () || (    )|  |  \  / /| )   ( || (   ) ||  \  ( |
-  console.log(C.bold + C.green + " | || || || (____)|  |  (_/ / | (___) || (___) ||   \ | |
-  console.log(C.bold + C.cyan + " | |(_)| ||     __)  |   _ (  |  ___  ||  ___  || (\ \) |
-  console.log(C.bold + C.blue + "  | |   | || (\ (     |  ( \ \ | (   ) || (   ) || | \   |
-  console.log(C.bold + C.magenta + " | )   ( || ) \ \__  |  /  \ \| )   ( || )   ( || )  \  |
-  console.log(C.bold + C.red + " |/     \||/   \__/  |_/    \/|/     \||/     \||/    )_)
+  console.log(C.bold + C.red + "(       )(  ____ )  | \    /\|\     /|(  ___  )( (    /|
+  console.log(C.bold + C.yellow + "| () () || (    )|  |  \  / /| )   ( || (   ) ||  \  ( |
+  console.log(C.bold + C.green + "| || || || (____)|  |  (_/ / | (___) || (___) ||   \ | |
+  console.log(C.bold + C.cyan + "| |(_)| ||     __)  |   _ (  |  ___  ||  ___  || (\ \) |
+  console.log(C.bold + C.blue + "| |   | || (\ (     |  ( \ \ | (   ) || (   ) || | \   |
+  console.log(C.bold + C.magenta + "| )   ( || ) \ \__  |  /  \ \| )   ( || )   ( || )  \  |
+  console.log(C.bold + C.red + "|/     \||/   \__/  |_/    \/|/     \||/     \||/    )_)
                                        
   console.log(C.bold + C.cyan + "             WHATSAPP ONLINE TERMUX SERVER");
   console.log(C.bold + C.green + "             CREATED BY: MR KHAN");
