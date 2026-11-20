@@ -1,4 +1,4 @@
-#ENCODED BY : NASIIR ALII KIING
+#ENCODED BY : MR KHAN ONFIRE
 #ENCRYPTION : Py3 BASE64
 #GITHUB : https://github.com/D3VIIL420
 #----------------------------------------------
