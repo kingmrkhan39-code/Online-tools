@@ -1,0 +1,22 @@
+module.exports = {
+  apps: [
+    {
+      name: 'mr-khan-whatsapp',
+      script: './indexagain_updated.js',
+      cwd: __dirname,
+      instances: 1,
+      exec_mode: 'fork',
+      autorestart: true,
+      watch: false,
+      restart_delay: 5000,
+      min_uptime: '10s',
+      kill_timeout: 10000,
+      time: true,
+      env: {
+        NODE_ENV: 'production'
+        // Set ADMIN_PASSWORD, BACKUP_PASSPHRASE, DATA_DIR, and PORT
+        // in the hosting panel's environment-variable settings.
+      }
+    }
+  ]
+};
